@@ -47,3 +47,4 @@ A mechanism called the Loan Prediction System allows you to apply for loans and 
 ## Collaborator
 
 - [Collaborator Manas Kumar (Jha)](https://github.com/manas-jha)
+- [Collaborator Kashyap Jain](https://github.com/kashyapjain)
